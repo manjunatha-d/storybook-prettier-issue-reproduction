@@ -1,0 +1,23 @@
+{
+  "name": "storybook-prettier-issue-reproduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --version && which prettier && prettier '*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjunatha-d/storybook-prettier-issue-reproduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjunatha-d/storybook-prettier-issue-reproduction/issues"
+  },
+  "homepage": "https://github.com/manjunatha-d/storybook-prettier-issue-reproduction#readme",
+  "dependencies": {
+    "@storybook/addon-storysource": "^5.3.19",
+    "@storybook/source-loader": "5.3.14"
+  }
+}
