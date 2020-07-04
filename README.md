@@ -1,5 +1,7 @@
 # Storybook addons and Prettier issue reproduction
 
+[Issue in storybook repo](https://github.com/storybookjs/storybook/issues/11416)
+
 ### The problem
 We can't use a global installation of `prettier` in yarn scripts (or npm scripts) when certain storybook packages like `@storybook/addon-storysource` or `@storybook/source-loader` are installed.
 
