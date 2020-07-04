@@ -16,7 +16,7 @@
     "url": "https://github.com/manjunatha-d/storybook-prettier-issue-reproduction/issues"
   },
   "homepage": "https://github.com/manjunatha-d/storybook-prettier-issue-reproduction#readme",
-  "dependencies": {
+  "devDependencies": {
     "@storybook/addon-storysource": "^5.3.19",
     "@storybook/source-loader": "5.3.14"
   }
